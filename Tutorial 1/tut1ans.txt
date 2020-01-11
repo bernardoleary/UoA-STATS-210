@@ -1,0 +1,19 @@
+(a) B
+(b) P(W) = 0.2, P(G) = 0.5, P(S) = 0.3, P(B) = 0.3, P(L) = 0.1
+(c)(i) yes
+(c)(ii) no
+(d)(i) F
+(d)(ii) F
+(d)(iii) T
+(d)(iv) T
+(d)(v) T
+(d)(vi) F
+(e) P(BuW) = 0.4
+    P(BuW) = P(B)+P(W)-P(BnW) = 0.4
+    0.3+0.2-P(BnW) = 0.4
+    P(BnW) = 0.3+0.2-0.4
+    P(BnW) = 0.1
+(f) P(Bn!W) = P(B)-P(BnW)
+    P(Bn!W) = 0.3-0.1
+    P(Bn!W) = 0.2
+(g) P(BnS) = P(B)+P(S)-P(BuS) = 1

@@ -1,0 +1,13 @@
+1.a. p: free, k: dummy, n: free
+1.b. k: free, n: dummy
+1.c. x: dummy, n: free, p: free
+1.d. x: dummy, y: free
+1.e. x: free, y: dummy
+1.f. i: dummy, j: dummy, n: free
+2.a. p^2(p-3) = p^3-3p^2 => dg/dp = 3(p+0)(p-2) = 3p^2-6p = p(3p-6)
+2.b. p(3p-6) = 3(p+0)(p-2) => local max: p=0, local min: p=2
+2.c. local max g(p): p=0
+2.d.i. dg/dp = p(3^p-6) = 3p^2-6p = 3(p+0)(p-2) => d^2g/dp^2 = 6p-6
+2.d.ii. as above???
+2.e. ???
+3. ???
